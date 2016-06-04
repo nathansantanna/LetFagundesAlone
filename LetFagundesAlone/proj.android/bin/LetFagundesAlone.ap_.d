@@ -1,0 +1,19 @@
+N:\Users\Nathan\Documents\Cocos\CocosProjects\letfagundesalone\proj.android\bin\LetFagundesAlone.ap_ \
+ : N:\Users\Nathan\Documents\Cocos\CocosProjects\letfagundesalone\proj.android\res\drawable-hdpi\icon.png \
+N:\Users\Nathan\Documents\Cocos\CocosProjects\letfagundesalone\proj.android\res\drawable-ldpi\icon.png \
+N:\Users\Nathan\Documents\Cocos\CocosProjects\letfagundesalone\proj.android\res\drawable-mdpi\icon.png \
+N:\Users\Nathan\Documents\Cocos\CocosProjects\letfagundesalone\proj.android\res\values\strings.xml \
+N:\Users\Nathan\Documents\Cocos\CocosProjects\letfagundesalone\proj.android\bin\res\drawable-hdpi\icon.png \
+N:\Users\Nathan\Documents\Cocos\CocosProjects\letfagundesalone\proj.android\bin\res\drawable-ldpi\icon.png \
+N:\Users\Nathan\Documents\Cocos\CocosProjects\letfagundesalone\proj.android\bin\res\drawable-mdpi\icon.png \
+N:\Users\Nathan\Documents\Cocos\CocosProjects\letfagundesalone\proj.android\assets\res \
+N:\Users\Nathan\Documents\Cocos\CocosProjects\letfagundesalone\proj.android\assets\res\bullet.png \
+N:\Users\Nathan\Documents\Cocos\CocosProjects\letfagundesalone\proj.android\assets\res\char.png \
+N:\Users\Nathan\Documents\Cocos\CocosProjects\letfagundesalone\proj.android\assets\res\c_point.png \
+N:\Users\Nathan\Documents\Cocos\CocosProjects\letfagundesalone\proj.android\assets\res\FinalMapPhone.png \
+N:\Users\Nathan\Documents\Cocos\CocosProjects\letfagundesalone\proj.android\assets\res\gloam_mire_road_by_neyjour-d5yzbez.jpg \
+N:\Users\Nathan\Documents\Cocos\CocosProjects\letfagundesalone\proj.android\assets\res\HelloWorld.png \
+N:\Users\Nathan\Documents\Cocos\CocosProjects\letfagundesalone\proj.android\assets\res\MainScene.csb \
+N:\Users\Nathan\Documents\Cocos\CocosProjects\letfagundesalone\proj.android\assets\res\POL-unbeatable-guild-short.wav \
+N:\Users\Nathan\Documents\Cocos\CocosProjects\letfagundesalone\proj.android\assets\res\tower.png \
+N:\Users\Nathan\Documents\Cocos\CocosProjects\letfagundesalone\proj.android\bin\AndroidManifest.xml \

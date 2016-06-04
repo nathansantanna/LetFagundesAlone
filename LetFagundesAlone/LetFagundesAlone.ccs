@@ -1,0 +1,18 @@
+<Solution>
+  <PropertyGroup Name="LetFagundesAlone" Version="3.10.0.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Image Name="bullet.png" />
+        <Image Name="c_point.png" />
+        <Image Name="char.png" />
+        <Image Name="FinalMapPhone.png" />
+        <Image Name="gloam_mire_road_by_neyjour-d5yzbez.jpg" />
+        <Project Name="MainScene.csd" Type="Scene" />
+        <Audio Name="POL-unbeatable-guild-short.wav" />
+        <Image Name="tower.png" />
+        <Project Name="Scene.csd" Type="Scene" />
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>
